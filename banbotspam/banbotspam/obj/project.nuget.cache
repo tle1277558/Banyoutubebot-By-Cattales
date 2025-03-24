@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2yyerISN1BM=",
+  "success": true,
+  "projectFilePath": "D:\\banbotmax\\banbotspam\\banbotspam\\banbotspam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeonjun ชอบชอบ\\.nuget\\packages\\google.apis\\1.69.0\\google.apis.1.69.0.nupkg.sha512",
+    "C:\\Users\\yeonjun ชอบชอบ\\.nuget\\packages\\google.apis.auth\\1.69.0\\google.apis.auth.1.69.0.nupkg.sha512",
+    "C:\\Users\\yeonjun ชอบชอบ\\.nuget\\packages\\google.apis.core\\1.69.0\\google.apis.core.1.69.0.nupkg.sha512",
+    "C:\\Users\\yeonjun ชอบชอบ\\.nuget\\packages\\google.apis.youtube.v3\\1.69.0.3707\\google.apis.youtube.v3.1.69.0.3707.nupkg.sha512",
+    "C:\\Users\\yeonjun ชอบชอบ\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\yeonjun ชอบชอบ\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\yeonjun ชอบชอบ\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

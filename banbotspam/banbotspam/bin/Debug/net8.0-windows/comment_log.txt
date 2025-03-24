@@ -1,0 +1,51 @@
+Test started at 3/16/2025 4:42:25 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 4:42:32 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 4:42:39 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 4:45:03 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 4:45:04 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 4:45:06 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 4:45:13 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 4:45:20 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 4:45:57 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Test started at 3/16/2025 4:46:41 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 4:46:43 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 4:46:58 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 4:47:00 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 4:49:25 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 4:49:30 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 4:49:36 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Test started at 3/16/2025 4:52:59 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 4:53:01 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Error at 3/16/2025 4:59:33 PM: Error:"invalid_grant", Description:"Token has been expired or revoked.", Uri:""
+Error at 3/16/2025 4:59:34 PM: Error:"invalid_grant", Description:"Token has been expired or revoked.", Uri:""
+Test started at 3/16/2025 5:01:29 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 5:05:19 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 5:05:36 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 5:05:40 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 5:05:51 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 5:05:54 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Error at 3/16/2025 5:06:29 PM: Error:"invalid_grant", Description:"Token has been expired or revoked.", Uri:""
+Test started at 3/16/2025 5:07:00 PM
+Processing video: 20241102 184901 (ID: x_Sx4Bc-jVg)
+Error at 3/16/2025 5:10:19 PM: The service youtube has thrown an exception. HttpStatusCode is Forbidden. Request had insufficient authentication scopes.
+Test started at 3/16/2025 5:52:35 PM
+Channels found:
+Channel: Cat Tales (ID: UCND2_C3gpGr-uDKyabbVB8Q)
+Warning: 'Cat Tales' channel not found in the list with the specified ID.
+Test started at 3/16/2025 5:54:38 PM
+Channels found:
+Channel: Cat Tales (ID: UCND2_C3gpGr-uDKyabbVB8Q)
+Warning: 'Cat Tales' channel not found in the list with the specified ID.
